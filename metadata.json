@@ -1,0 +1,5 @@
+{
+  "name": "Excel Sales Dashboard",
+  "description": "A dashboard to upload and visualize sales data from Excel files.",
+  "requestFramePermissions": []
+}
